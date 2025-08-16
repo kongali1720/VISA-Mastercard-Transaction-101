@@ -202,8 +202,6 @@ You are free to use, modify, and distribute this project under the terms of MIT.
 
 ---
 
-
-
 <h3 align="center" style="color:#39ff14; font-size:1.5rem;">
 💡 ☕ Traktir Kopi & Nasi Padang / Nasi Gorengnya ya cuy! 😄
 </h3>
