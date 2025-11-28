@@ -102,6 +102,31 @@ flowchart TD
 
 ---
 
+```text
+visa-mc-transaction/
+├── docs/                   # Dokumentasi detail
+│   ├── authorization-flow.md
+│   ├── security-protocols.md
+│   └── api-examples.md
+├── examples/               # Contoh implementasi
+│   ├── python/
+│   ├── javascript/
+│   └── java/
+├── diagrams/              # Gambar dan diagram tambahan
+│   ├── transaction-flow.svg
+│   └── security-layers.svg
+├── tests/                 # Test files
+├── .github/               # GitHub-specific files
+│   ├── ISSUE_TEMPLATE/
+│   └── PULL_REQUEST_TEMPLATE.md
+├── .gitignore
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── README.md
+└── CHANGELOG.md
+```
+
 <h2 align="center">🚀 Alur Transaksi (Basic Flow)</h2>
 <p align="center">
 1. <b>Authorization</b> → Pemegang kartu → Merchant → Payment Gateway → Acquirer Bank → Card Network → Issuer Bank → Approve/Reject<br>
