@@ -1,0 +1,9 @@
+{
+  "name": "visa-mc-transaction-examples",
+  "version": "1.0.0",
+  "description": "Examples of VISA & Mastercard transaction processing",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1"
+  }
+}
