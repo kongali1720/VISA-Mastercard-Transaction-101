@@ -335,15 +335,9 @@ They are not different — they were born to teach the world pure love and extra
 
 ---
 
-<p align="center" style="margin-top: 15px;">
-  Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke teman-teman!<br>
-  Follow <a href="https://twitter.com/kongali1720" target="_blank">@kongali1720</a> untuk diskusi & update seru 🔥
-</p>
+<div align="center">
 
-<p align="center" style="margin-top: 10px;">
-  <a href="https://twitter.com/kongali1720" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kongali1720?style=social" alt="Twitter Follow" />
-  </a>
-</p>
+⭐ Kalau project ini bermanfaat, kasih ⭐ dan share ke teman-temanmu!<br>
+Follow <a href="https://x.com/KongAli50422468" target="_blank">@kongali1720</a> untuk update seru 🔥
 
-
+</div>
