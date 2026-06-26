@@ -344,7 +344,7 @@ They are not different — they were born to teach the world pure love and extra
   <tbody style="background-color: #f9f9f9;">
     <tr>
       <td style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Visa_Logo.png/120px-Visa_Logo.png" alt="Visa" width="90" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Visa_Inc._logo_%282021%E2%80%93present%29.svg" alt="Visa" width="90" />
       </td>
       <td style="padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/120px-Mastercard-logo.svg.png" alt="Mastercard" width="90" />
